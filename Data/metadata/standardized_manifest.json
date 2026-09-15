@@ -1,0 +1,49 @@
+{
+  "schema_version": "full_test_standardized_v1",
+  "split": "test",
+  "language": "zh",
+  "datasets": {
+    "pawsx_zh": {
+      "count": 1975,
+      "label_counts": {
+        "1": 894,
+        "0": 1081
+      }
+    },
+    "xnli_zh": {
+      "count": 5010,
+      "label_counts": {
+        "contradiction": 1670,
+        "entailment": 1670,
+        "neutral": 1670
+      }
+    },
+    "lcqmc": {
+      "count": 12500,
+      "label_counts": {
+        "0": 6250,
+        "1": 6250
+      }
+    },
+    "c3": {
+      "count": 3892,
+      "label_counts": {
+        "2": 1057,
+        "0": 927,
+        "3": 815,
+        "1": 1093
+      }
+    },
+    "asap": {
+      "count": 4940,
+      "label_counts": {
+        "4": 1867,
+        "5": 2018,
+        "3": 717,
+        "2": 173,
+        "1": 165
+      }
+    }
+  },
+  "total": 28317
+}
